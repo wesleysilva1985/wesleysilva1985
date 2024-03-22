@@ -9,10 +9,10 @@ eu sou Wesley silva, sou um programador Front End, atualmente estou aprendendo e
 ### Conecte as minhas redes sociais: :computer:
 
 <p>
-<a herf"https://www.instagram.com/wesleysilva">
+<a herf"https://www.instagram.com/">
 <img aling="left" alt="instagran-logo" width="80px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href"https://www.facebook.com/wesleysilva">
+<a href"https://www.facebook.com/">
 <img aling="left" alt="facebook-logo" width=80px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a> 
 </p>
